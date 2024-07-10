@@ -1,5 +1,5 @@
 import opendatasets as od
 
 
-path = "https://www.kaggle.com/datasets/menakamohanakumar/derm7pt-cropped/data"
+path = "https://www.kaggle.com/datasets/menakamohanakumar/isic-derm7pt-preprocessed/data"
 od.download(path)
